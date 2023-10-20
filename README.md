@@ -1,6 +1,6 @@
 # c_menu
 
-A library to easily create a menu with multiple options.
+A c library created by Taylor Bradley, formatted to the Barr-C standard to easily create a menu with multiple options.
 
 ## TODO
 
